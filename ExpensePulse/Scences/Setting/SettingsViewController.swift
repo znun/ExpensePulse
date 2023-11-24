@@ -187,7 +187,7 @@ class SettingsViewController: GMMainViewController {
 
             // just support "$" and "₫" currently.
             if action.title != CurrencyUnit.dollar.rawValue,
-               action.title != CurrencyUnit.dong.rawValue
+               action.title != CurrencyUnit.taka.rawValue
             {
                 action.isEnabled = false
             }

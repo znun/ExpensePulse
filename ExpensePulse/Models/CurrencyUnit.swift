@@ -1,6 +1,7 @@
 enum CurrencyUnit: String {
     case dollar = "$"
-    case dong = "₫"
+    //case dong = "₫"
+    case taka = "৳"
     case rupee = "₹"
     case euro = "€"
     case yen = "¥"
@@ -8,5 +9,5 @@ enum CurrencyUnit: String {
     case cent = "¢"
     case kip = "₭"
 
-    static let all: [CurrencyUnit] = [.dollar, .dong, .rupee, .euro, .yen, .pound, .cent, .kip]
+    static let all: [CurrencyUnit] = [.dollar, .taka, .rupee, .euro, .yen, .pound, .cent, .kip]
 }

@@ -1,7 +1,7 @@
 enum MoneyFormatter {
     static func formatShorter(amount: Double, currency: CurrencyUnit) -> String {
         switch currency {
-        case .dong:
+        case .taka:
             switch amount {
             case 1 ..< 1_000_000:
                 return amount.formatWithCommas()
