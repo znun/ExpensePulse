@@ -14,6 +14,16 @@
 	</dict>
 	<dict>
 		<key>code</key>
+		<string>BDT</string>
+		<key>symbol</key>
+		<string> ৳</string>
+		<key>name</key>
+		<string>Bangladeshi Taka</string>
+		<key>country</key>
+		<string>Bangladesh</string>
+	</dict>
+	<dict>
+		<key>code</key>
 		<string>BGN</string>
 		<key>symbol</key>
 		<string>лв</string>
@@ -322,15 +332,15 @@
 		<key>country</key>
 		<string>United Kingdom</string>
 	</dict>
-    <dict>
-        <key>code</key>
-        <string>VND</string>
-        <key>symbol</key>
-        <string>₫</string>
-        <key>name</key>
-        <string>Vietnam Dong</string>
-        <key>country</key>
-        <string>Vietnam</string>
-    </dict>
+	<dict>
+		<key>code</key>
+		<string>VND</string>
+		<key>symbol</key>
+		<string>₫</string>
+		<key>name</key>
+		<string>Vietnam Dong</string>
+		<key>country</key>
+		<string>Vietnam</string>
+	</dict>
 </array>
 </plist>
