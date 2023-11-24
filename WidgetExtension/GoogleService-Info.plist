@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDPwQIwKFkeuAspp-I9kv0F18ezrlJHD28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>472191961494</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kappa.expense</string>
+	<key>PROJECT_ID</key>
+	<string>expensepulse-99fad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>expensepulse-99fad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:472191961494:ios:a39863801bdc7cde51b5b7</string>
+</dict>
+</plist>
